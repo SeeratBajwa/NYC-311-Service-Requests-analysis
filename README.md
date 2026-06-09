@@ -80,6 +80,10 @@ Analyzed:
 * Complaint distribution across agencies
 * Workload concentration among city departments
 
+  <img width="875" height="547" alt="image" src="https://github.com/user-attachments/assets/db7bf0ac-af6e-43ef-b0e1-894c7101b142" />
+
+
+
 ### 2. Agency Efficiency Analysis
 
 Developed operational KPIs to compare agency performance:
@@ -90,6 +94,9 @@ Developed operational KPIs to compare agency performance:
 
 This analysis helped identify differences in workload and responsiveness across agencies.
 
+<img width="996" height="547" alt="image" src="https://github.com/user-attachments/assets/7135bdf4-72f4-406d-8de0-9df8acd2a987" />
+
+
 ### 3. Resolution Time Analysis
 
 Examined:
@@ -97,6 +104,9 @@ Examined:
 * Distribution of ticket resolution times
 * Long-running service requests
 * Resolution speed variations between agencies
+
+  <img width="687" height="679" alt="image" src="https://github.com/user-attachments/assets/11b05a0e-4148-4cad-ad13-2d5e87fbeba6" />
+
 
 ### 4. Temporal Trend Analysis
 
@@ -109,6 +119,9 @@ Analyzed complaint activity across:
 
 to identify recurring demand patterns and peak activity periods.
 
+<img width="570" height="600" alt="image" src="https://github.com/user-attachments/assets/2a8a41ea-1860-49eb-b18d-a00501fe9574" />
+
+
 ### 5. Priority Scoring Framework
 
 Created a priority ranking system by combining:
@@ -117,6 +130,9 @@ Created a priority ranking system by combining:
 * Resolution delay rankings
 
 This framework highlights complaint categories that are both high-volume and slow to resolve.
+
+<img width="1196" height="547" alt="image" src="https://github.com/user-attachments/assets/116d07bb-d97c-4ac2-a803-da35525c2734" />
+
 
 ---
 
